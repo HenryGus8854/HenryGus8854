@@ -19,7 +19,7 @@
   <a href="https://github.com/HenryG2455">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryG2455&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="My Stats"/>
 
-[//]: # (  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=HenryG2455&theme=dracula&hide_border=true"></a>&nbsp;)
+<a href="https://github.com/HenryG2455">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryG2455&layout=compact&langs_count=7&theme=dracula" alt="My languages"/>
 
 </div>
