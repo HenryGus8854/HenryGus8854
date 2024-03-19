@@ -16,11 +16,11 @@
 
 ## &#x1f4c8; Check out my GitHub Stats
 <div>
-  <a href="https://github.com/HenryG2455">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryG2455&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="My Stats"/>
+  <a href="https://github.com/HenryGus8854">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenryGus8854&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="My Stats"/>
 
-<a href="https://github.com/HenryG2455">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryG2455&layout=compact&langs_count=7&theme=dracula" alt="My languages"/>
+<a href="https://github.com/HenryGus8854">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenryGus8854&layout=compact&langs_count=7&theme=dracula" alt="My languages"/>
 
 </div>
 
